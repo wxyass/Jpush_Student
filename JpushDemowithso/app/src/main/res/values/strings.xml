@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JpushDemo</string>
+
+    <string name="jpush_message_type">消息类型:</string>
+    <string name="jpush_message_content">消息内容:</string>
+    <string name="jpush_message_title">推送消息</string>
+</resources>
